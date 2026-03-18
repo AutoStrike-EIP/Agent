@@ -14,7 +14,7 @@ All contributions must adhere to a strict framework:
 
 Clone the repository:
 ```bash
-git clone https://github.com/Agent
+git clone https://github.com/AutoStrike-EIP/Agent
 cd autostrike
 ```
 
